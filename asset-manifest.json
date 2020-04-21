@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.111c5dfe.chunk.css",
+    "main.js": "/static/js/main.d4adebe5.chunk.js",
+    "main.js.map": "/static/js/main.d4adebe5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.549be430.js",
+    "runtime-main.js.map": "/static/js/runtime-main.549be430.js.map",
+    "static/js/2.7f1fa8bf.chunk.js": "/static/js/2.7f1fa8bf.chunk.js",
+    "static/js/2.7f1fa8bf.chunk.js.map": "/static/js/2.7f1fa8bf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.acce929e8f21c46e3d66905de5d6d4d8.js": "/precache-manifest.acce929e8f21c46e3d66905de5d6d4d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.111c5dfe.chunk.css.map": "/static/css/main.111c5dfe.chunk.css.map",
+    "static/js/2.7f1fa8bf.chunk.js.LICENSE.txt": "/static/js/2.7f1fa8bf.chunk.js.LICENSE.txt",
+    "static/media/Hero.scss": "/static/media/bg-small.03430f37.png",
+    "static/media/facebook.svg": "/static/media/facebook.9c3a6a08.svg",
+    "static/media/fries.svg": "/static/media/fries.d86ffb96.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.07318180.svg",
+    "static/media/ice-cream.svg": "/static/media/ice-cream.616a0a54.svg",
+    "static/media/instagram.svg": "/static/media/instagram.95c6178f.svg",
+    "static/media/light-hamburger.svg": "/static/media/light-hamburger.ed0eaae7.svg",
+    "static/media/nav.svg": "/static/media/nav.53aadabf.svg",
+    "static/media/soda.svg": "/static/media/soda.a6c5fb57.svg",
+    "static/media/tiktok.svg": "/static/media/tiktok.7dfde20a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.549be430.js",
+    "static/js/2.7f1fa8bf.chunk.js",
+    "static/css/main.111c5dfe.chunk.css",
+    "static/js/main.d4adebe5.chunk.js"
+  ]
+}
